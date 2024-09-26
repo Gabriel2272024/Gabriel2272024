@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Gabriel2272024
 - 👀 Me interesa el mundo de la programción.
-- 🌱 Actualmete estoy recordando y aprendiendo como programar. 
-- 💞️ Busco colaborar en una empresa de desarrollos de software.
-- 📫 Me pueden ubicar a ese numero 0998960008
+- 🌱 Actualmete estoy aprendiendo nuevas maneras de programar. 
+- 💞️ Busco colaborar en una empresa de desarrollo de software.
+- 📫 Me pueden ubicar a ese número 0998960008
 - 😄 Pronouns: Gabriel
 - ⚡ Fun fact: Me gusta la medicina tactica 
 
