@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gabriel2272024
 - 👀 Me interesa el mundo de la programción.
-- 🌱 Actualmete estoy aprendiendo y recordando como programar. 
+- 🌱 Actualmete estoy recordando y aprendiendo como programar. 
 - 💞️ Busco colaborar en una empresa de desarrollos de software.
 - 📫 Me pueden ubicar a ese numero 0998960008
 - 😄 Pronouns: Gabriel
